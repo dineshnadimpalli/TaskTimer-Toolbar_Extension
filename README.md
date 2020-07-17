@@ -9,3 +9,9 @@ Start dev server:
 In a new terminal window:
 
 `npm run electron`
+
+Here is a demo gif of how the app should look once you successfully clone it and run.
+
+<p align="center">
+  <img src="./timerAppDemo.gif" />
+</p>
